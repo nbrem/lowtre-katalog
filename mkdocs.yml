@@ -25,8 +25,8 @@ theme:
     palette:
         primary: grey
         accent: blue
-    logo: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
-    favicon: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
+    logo: https://raw.githubusercontent.com/nbrem/lowtre-katalog/master/docs/etc/logo-carre-lowtre.png
+    favicon: https://raw.githubusercontent.com/nbrem/lowtre-katalog/master/docs/etc/logo-carre-lowtre.png
 
 # [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
 
