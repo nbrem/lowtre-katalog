@@ -1,21 +1,20 @@
 {"projekts": [
     
         {
-            "name": "Capteur solaire thermique", 
-            "description": "Capter la chaleur des rayons du soleil et la redistribuer par soufflage d'air chaud dans la bati.", 
-            "auteur": "Konsilion",
+            "name": "LowTRE", 
+            "description": "Faire vivre et assurer une utilité dans le temps à la communauté de LowTRE.", 
+            "auteur": "Université Grenoble-Alpes",
             "type": "1",
-            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/katalog-dataset-exemple.csv",
-            "image": "https://wiki.lowtechlab.org/images/thumb/4/4b/Chauffage_solaire_version_ardoise_47949921956_479ae5b9ec_kk.jpg/800px-Chauffage_solaire_version_ardoise_47949921956_479ae5b9ec_kk.jpg"
+            "link": "https://github.com/nbrem/lowtre-katalog/blob/master/docs/stg/projekts/lowtre-capteur-solaire.csv",
+            "image": "http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg"
         },
-    
         {
-            "name": "Biodigesteur domestique", 
-            "description": "Produire du biogaz par la décomposition controlée de matière organique.", 
-            "auteur": "Konsilion",            
-            "type": "2",
-            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/katalog-dataset-exemple.csv",
-            "image": "https://wiki.lowtechlab.org/images/thumb/5/56/Biodigesteur_domestique_small_general.png/800px-Biodigesteur_domestique_small_general.png"
-        }  
-
+            "name": "Projet PISTE", 
+            "description": "Pour une Ingénierie Sobre Techno et Eco-responsable est un nouveau semestre ouvert à l'ensemble des élèves de 3ème année de Grenoble INP - UGA.", 
+            "auteur": "Université Grenoble-Alpes",
+            "type": "1",
+            "link": "https://github.com/nbrem/lowtre-katalog/blob/master/docs/stg/projekts/lowtre-capteur-solaire.csv",
+            "image": "https://ense3.grenoble-inp.fr/uas/alias23/LOGO/Grenoble+INP+-+Ense3+%28couleur%2C+RVB%2C+120px%29.png"
+        }
+    
 ]}
