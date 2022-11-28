@@ -24,7 +24,7 @@ theme:
     language: fr
     palette:
         primary: grey
-        accent: yellow
+        accent: blue
     logo: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
     favicon: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
 
