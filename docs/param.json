@@ -1,9 +1,9 @@
 {"informations": [
         {
-            "name": "Bienvenue sur votre plateforme Katalog", 
-            "description": "Vous pouvez modifier certains paramètres de votre plateforme tels que le titre, la couleur, ou encore ce texte. Pour cela nous vous invitons à suivre le tutoriel présenté dans le répertoire de l'applications (voir ci-dessous dans 'Paramètrer la plateforme').",
-            "logo": "https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png",
-            "link": "https://github.com/Konsilion/katalog-template/",
-            "token": "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"
+            "name": "Bienvenue sur le Katalog LowTRE, Low-Tech Recherche et Enseignement.", 
+            "description": "L’enjeu de cette communauté est de déclencher une prise de conscience et de décision dans le milieu universitaire sur la nécessité de repenser nos activités en les adaptant aux défis actuels d’une société que nous souhaiterions sobre et résiliente.",
+            "logo": "http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg",
+            "link": "https://github.com/nbrem/lowtre-katalog/",
+            "token": "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"
         }
 ]}
