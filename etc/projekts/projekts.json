@@ -1,0 +1,20 @@
+{"projekts": [
+    
+        {
+            "name": "LowTRE", 
+            "description": "Faire vivre et assurer une utilité dans le temps à la communauté de LowTRE.", 
+            "auteur": "Université Grenoble-Alpes",
+            "type": "1",
+            "link": "https://github.com/nbrem/lowtre-katalog/blob/master/docs/stg/projekts/lowtre-capteur-solaire.csv",
+            "image": "http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg"
+        },
+        {
+            "name": "Projet PISTE", 
+            "description": "Pour une Ingénierie Sobre Techno et Eco-responsable est un nouveau semestre ouvert à l'ensemble des élèves de 3ème année de Grenoble INP - UGA.", 
+            "auteur": "Université Grenoble-Alpes",
+            "type": "1",
+            "link": "https://github.com/nbrem/lowtre-katalog/blob/master/docs/stg/projekts/lowtre-capteur-solaire.csv",
+            "image": "https://ense3.grenoble-inp.fr/uas/alias23/LOGO/Grenoble+INP+-+Ense3+%28couleur%2C+RVB%2C+120px%29.png"
+        }
+    
+]}
