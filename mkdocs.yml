@@ -9,9 +9,9 @@
 # SITE INFORMATIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-site_name: Katalog - Plateforme de ressources ouvertes
-site_author: Nicolas Brémond
-site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie.
+site_name: LowTRE - Plateforme de Low-Tech Recherche et Enseignement
+site_author: Université Grenoble-Alpes
+site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie, la recherche et l'enseignement.
 
 
 
@@ -23,10 +23,10 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 theme:
     language: fr
     palette:
-        primary: green
-        accent: orange
-    logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
-    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
+        primary: grey
+        accent: yellow
+    logo: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
+    favicon: http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg
 
 # [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
 
@@ -37,7 +37,7 @@ theme:
 # MENTIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
+copyright: LowTRE - Licence juridique Creative Commons CC-BY-SA 4.0
 
 
 
